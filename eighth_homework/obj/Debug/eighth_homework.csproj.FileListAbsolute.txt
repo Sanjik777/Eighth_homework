@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\eighth_homework\eighth_homework\bin\Debug\eighth_homework.exe
+C:\Users\Санжар\source\repos\eighth_homework\eighth_homework\bin\Debug\eighth_homework.pdb
+C:\Users\Санжар\source\repos\eighth_homework\eighth_homework\obj\Debug\eighth_homework.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\eighth_homework\eighth_homework\obj\Debug\eighth_homework.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\eighth_homework\eighth_homework\obj\Debug\eighth_homework.exe
+C:\Users\Санжар\source\repos\eighth_homework\eighth_homework\obj\Debug\eighth_homework.pdb

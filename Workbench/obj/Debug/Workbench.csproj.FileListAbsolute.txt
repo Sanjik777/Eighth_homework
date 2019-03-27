@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\eighth_homework\Workbench\obj\Debug\Workbench.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\eighth_homework\Workbench\bin\Debug\Workbench.exe
+C:\Users\Санжар\source\repos\eighth_homework\Workbench\bin\Debug\Workbench.pdb
+C:\Users\Санжар\source\repos\eighth_homework\Workbench\obj\Debug\Workbench.exe
+C:\Users\Санжар\source\repos\eighth_homework\Workbench\obj\Debug\Workbench.pdb
+C:\Users\Санжар\source\repos\eighth_homework\Workbench\obj\Debug\Workbench.csprojResolveAssemblyReference.cache
